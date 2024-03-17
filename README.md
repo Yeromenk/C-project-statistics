@@ -1,4 +1,4 @@
-# League of Legends statistiky
+# League of Legends statistics
 ## Build
 ### Prerequisites
 * GNU Make
